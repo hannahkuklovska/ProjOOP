@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>resources/users.txt</file>
+        <file>resources/orders.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,79 @@
+user1
+password1
+physical
+John Doe
+Toyota
+Corolla
+2015
+
+user2
+password2
+company
+ACME Corp
+Ford
+Focus
+2018
+123456
+true
+
+user3
+password3
+worker
+technician
+
+user4
+password4
+physical
+Jane Smith
+Honda
+Civic
+2010
+
+user5
+password5
+company
+Beta Ltd
+BMW
+X5
+2019
+654321
+false
+
+user6
+password6
+worker
+administrator
+
+user7
+password7
+physical
+Alice Brown
+Chevrolet
+Malibu
+2017
+
+user8
+password8
+company
+Gamma Inc
+Audi
+A4
+2020
+112233
+true
+
+user9
+password9
+worker
+technician
+
+user10
+password10
+company
+Delta LLC
+Tesla
+Model S
+2021
+998877
+true
+

@@ -1,0 +1,10 @@
+Oprava motora;150.0
+Výmena oleja;50.0
+Výmena brzdových kotúčov;120.0
+Montáž letných pneu;30.0
+Montáž zimných pneu;30.0
+Diagnostika vozidla;40.0
+Údržba klimatizácie;80.0
+Kontrola bŕzd;45.0
+Kontrola tlmičov;55.0
+Oprava výfuku;100.0
